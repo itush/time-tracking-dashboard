@@ -62,6 +62,18 @@ main{
     background-repeat: no-repeat;
     background-position: 100% 0%;
     border-radius: 1em;
+
+    .work-content{       
+        background: $Darkblue;
+        border-radius: 1em;
+        margin: 3.5em 0 0 0;
+        padding: 1em;
+        header{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+    }
 }
 
 .play{
@@ -71,6 +83,20 @@ main{
     background-repeat: no-repeat;
     background-position: 100% 0%;
     border-radius: 1em;
+
+    .play-content{       
+        background: $Darkblue;
+        border-radius: 1em;
+        margin: 3.5em 0 0 0;
+        padding: 1em;
+        header{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+    }
+
+    
 }
 
 .study{
@@ -80,6 +106,18 @@ main{
     background-repeat: no-repeat;
     background-position: 100% 0%;
     border-radius: 1em;
+
+    .study-content{       
+        background: $Darkblue;
+        border-radius: 1em;
+        margin: 3.5em 0 0 0;
+        padding: 1em;
+        header{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+    }
 }
 
 .exercise{
@@ -89,6 +127,18 @@ main{
     background-repeat: no-repeat;
     background-position: 100% 0%;
     border-radius: 1em;
+
+    .exercise-content{       
+        background: $Darkblue;
+        border-radius: 1em;
+        margin: 3.5em 0 0 0;
+        padding: 1em;
+        header{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+    }
 }
 
 .social{
@@ -98,6 +148,18 @@ main{
     background-repeat: no-repeat;
     background-position: 100% 0%;
     border-radius: 1em;
+
+    .social-content{       
+        background: $Darkblue;
+        border-radius: 1em;
+        margin: 3.5em 0 0 0;
+        padding: 1em;
+        header{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+    }
 }
 
 .selfcare{
@@ -107,6 +169,18 @@ main{
     background-repeat: no-repeat;
     background-position: 100% 0%;
     border-radius: 1em;
+
+    .selfcare-content{       
+        background: $Darkblue;
+        border-radius: 1em;
+        margin: 3.5em 0 0 0;
+        padding: 1em;
+        header{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+    }
 }
 
 .attribution { font-size: 11px; text-align: center; }
